@@ -6,8 +6,8 @@ Professional Git Workflow
 
 ## Objective
 
-Learn  Git professionally 
-imma be the best in the world ~ ~@@~ ~
+Learn Git professionally and understand how to resolve merge conflicts in real-world DevOps workflows.
+
 ## Skills Learned
 
 -repository
