@@ -1,0 +1,1 @@
+Git uses snapshots instead of saving complete copies of every file
