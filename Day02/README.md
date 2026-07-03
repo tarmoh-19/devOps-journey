@@ -6,7 +6,7 @@ Professional Git Workflow
 
 ## Objective
 
-Learn  Git professionally 
+drake gotta go
 
 ## Skills Learned
 
