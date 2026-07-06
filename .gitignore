@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Node modules
+node_modules/
